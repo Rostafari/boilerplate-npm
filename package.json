@@ -16,7 +16,7 @@
 	"devDependencies": {},
 	"keywords": ["freecodecamp"],
 	"author": "Ross Kukes",
-	"license": "ISC",
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/Rostafari/boilerplate-npm/issues"
 	},
